@@ -1,0 +1,62 @@
+#a {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: x-large;
+  font-style: italic;
+  color: darkorchid;
+  text-shadow: 2px 2px red;
+  text-align: center;
+  width: 1320px;
+  height: 80px;
+  background-color: bisque;
+  border: 4px solid black;
+  padding-bottom: 5px;
+}
+ul {
+  list-style-type: none;
+}
+#b {
+  width: 1320px;
+  height: 80px;
+  background-color: blanchedalmond;
+  margin-top: 3px;
+  border: 2px solid black;
+}
+li {
+  display: inline-block;
+  padding-right: 150px;
+}
+#c {
+  width: 600px;
+  height: 500px;
+  border: 1px solid black;
+  margin-top: 3px;
+  float: left;
+}
+img {
+  width: 600px;
+  height: 500px;
+}
+#d {
+  width: 600px;
+  height: 500px;
+  border: 1px solid black;
+  margin-top: 3px;
+  float: right;
+}
+img {
+  width: 600px;
+  height: 500px;
+}
+#e {
+  width: 1320px;
+  height: 50px;
+  border: 1px solid black;
+  color: blue;
+}
+#f footer {
+  width: 600px;
+  height: 500px;
+  border: 1px solid black;
+  margin-top: 3px;
+  text-align: center;
+}
